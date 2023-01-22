@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 # Hi there 👋, I'm Victor.
-<img>
+<img src = "https://user-images.githubusercontent.com/89346667/213910562-d52de20d-03ab-4d52-a1f4-fee55764287f.jpeg" style="height:80%;width:80%">
+
 
 ## 💻 About Me
 
