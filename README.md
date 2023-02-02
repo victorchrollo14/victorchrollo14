@@ -45,7 +45,9 @@ Here are some ideas to get you started:
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorchrollo14&show_icons=true&theme=tokyonight)
+![Victor's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=victorchrollo14&show_icons=true&theme=tokyonight)     
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorchrollo14&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=victorchrollo14&theme=tokyonight)](https://git.io/streak-stats)&nbsp;
+
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=victorchrollo14&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
