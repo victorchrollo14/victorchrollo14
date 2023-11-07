@@ -75,6 +75,6 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=victorchrollo14&theme=tokyonight)](https://git.io/streak-stats)&nbsp;
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=victorchrollo14&theme=tokyonight&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorchrollo14&theme=tokyonight&hide=html&layout=compact)
    
 
