@@ -100,6 +100,6 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=victorchrollo14&theme=tokyonight)](https://git.io/streak-stats)&nbsp;
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorchrollo14&theme=tokyonight&hide=html&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorchrollo14&theme=tokyonight&hide=html,css,ejs,jupyter%20notebook&layout=compact)
    
 
